@@ -17,6 +17,6 @@ Users can enter a keyword, view matching images in a gallery layout, and click o
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./screenshots/screenshot-search.jpg" alt="Search screen" height="300px" style="margin-right: 10px;" />
-  <img src="./screenshots/screenshot-modal.jpg" alt="Modal view" height="300px" />
+  <img src="./screenshots/screenshot-search.png" alt="Search screen" height="300px" style="margin-right: 10px;" />
+  <img src="./screenshots/screenshot-modal.png" alt="Modal view" height="300px" />
 </p>
